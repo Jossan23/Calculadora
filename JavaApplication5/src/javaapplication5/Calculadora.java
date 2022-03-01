@@ -8,6 +8,7 @@ package javaapplication5;
 /**
  *
  * @author redes
+ * @version v2.2
  */
 public class Calculadora {
     private int num1;
