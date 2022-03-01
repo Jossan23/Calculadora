@@ -7,7 +7,7 @@ package javaapplication5;
 
 /**
  *
- * @author redes 1/3/2022
+ * @author redes 1/3/2022 pruebajsndlkjasd
  * @version v2.2
  */
 public class Calculadora {
