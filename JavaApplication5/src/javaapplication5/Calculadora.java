@@ -9,7 +9,7 @@ package javaapplication5;
  *
  * @author redes
  * @version v2.2
- * @esto es una prueba para probar
+ * @esto es una prueba para probar el rama1
  */
 public class Calculadora {
     private int num1;
